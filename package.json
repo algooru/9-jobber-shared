@@ -19,7 +19,7 @@
   "author": "guru prasad",
   "repository": {
     "type": "git",
-    "url": ""
+    "url": "git+https://github.com/algooru/9-jobber-shared"
   },
   "publishConfig": {
     "registry": "https://npm.pkg.github.com"
